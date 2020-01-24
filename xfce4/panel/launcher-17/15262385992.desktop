@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Brick
+GenericName=Internet Messenger
+Comment=Bitrix24 messenger
+Type=Application
+Categories=Network;InstantMessaging;
+Exec=brick
+Icon=/usr/share/icons/UKMegapolis/ukm_construction.png
+Terminal=false
+X-Desktop-File-Install-Version=0.23
+X-XFCE-Source=file:///usr/share/applications/brick.desktop
+Path=
+StartupNotify=false
